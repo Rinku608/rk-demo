@@ -10,7 +10,7 @@ public class Student {
 	
 @RequestMapping("/")
 	   public String hello() {
-	        return "Hello student, Spring Boot!";
+	        return "Hello student, rinku!";
 	    }
 
 @RequestMapping("/student")
